@@ -1,0 +1,48 @@
+.main-content{
+	border-radius: 22px 22px 0px 0px;
+	.cat-card{
+		// background-color:#ff885e1f;
+		border-radius: 22px;
+		background: linear-gradient(0deg, rgb(235 87 35 / 7%) 0%, rgb(253 159 125 / 3%) 100%);
+	}
+	.cat-thumb{
+		max-width: 160px;
+		padding: 22px;
+	}
+	.text-2{
+		    overflow: hidden;
+		    max-height: 68px;
+		    color: gray;
+		    font-size: 14px;
+	}
+	.meal-desc{
+		    white-space: nowrap;
+		    overflow: hidden;
+		    font-size: 14px;
+		    color: gray;
+		    margin-top: -16px;
+	}
+	.item-label1{
+		    background: #E98580;
+		    width: 50%;
+		    border-radius: 0px 0px 100px 0px;
+		    padding: 12px;
+		    text-align: left;
+		    height: 48px;
+		    color: #fff;
+		    font-size: 14px;
+	}
+	.item-label2{
+		    background: #FAAD80;
+		    width: 50%;
+		    border-radius: 0px 0px 0px 100px;
+		    padding: 12px;
+		    text-align: right;
+		    height: 48px;
+		    color: #fff;
+		    font-size: 14px;
+	}
+	.cat-title{
+
+	}
+}
